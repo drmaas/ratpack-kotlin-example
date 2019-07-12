@@ -1,0 +1,14 @@
+= ratpack-kotlin-example
+
+An example project of a ratpack kotlin app, using the gradle plugin.
+
+== Running
+
+```
+./gradlew run
+```
+OR
+```
+./gradlew shadowJar
+java -jar build/libs/ratpack-kotlin-example-0.0.1.jar
+```
